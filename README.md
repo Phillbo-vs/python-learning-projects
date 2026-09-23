@@ -1,7 +1,7 @@
 # Python Learning Projects
 
 Six command-line projects from my progress through *100 Days of Code - The Complete Python Pro Bootcamp*.
-These are learning exercises; their program behavior is preserved. Obsolete TODO prompt comments were removed from the Day 8 and Day 9 entry files.
+These are learning exercises; their program behavior is preserved.
 
 | Day | Project | What it practices |
 | --- | --- | --- |
