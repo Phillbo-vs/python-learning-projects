@@ -1,7 +1,7 @@
 # Python Learning Projects
 
 Six command-line projects from my progress through *100 Days of Code - The Complete Python Pro Bootcamp*.
-These are learning exercises, preserved as written, including comments and current behavior.
+These are learning exercises; their program behavior is preserved. Obsolete TODO prompt comments were removed from the Day 8 and Day 9 entry files.
 
 | Day | Project | What it practices |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Use a UTF-8 terminal to display the Treasure Island emoji correctly.
 
 ## About these versions
 
-The Day 3, 4, and 5 entry files were renamed from `task.py` to `main.py` without changing their contents.
+The Day 3, 4, and 5 entry files were renamed from `task.py` to `main.py` without changing their program logic.
 Day 8 uses the third Caesar Cipher stage. Required art and word-list modules are included from the same project folders; these supporting assets may originate from the course.
 Solution files, course instructions, IDE metadata, and virtual environments are excluded.
 Input validation and other learning-stage behavior remain as originally written.
