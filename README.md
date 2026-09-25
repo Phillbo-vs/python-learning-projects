@@ -1,6 +1,6 @@
 # Python Learning Projects
 
-Six command-line projects from my progress through *100 Days of Code - The Complete Python Pro Bootcamp*.
+Seven command-line projects from my progress through *100 Days of Code - The Complete Python Pro Bootcamp*.
 These are learning exercises; their program behavior is preserved.
 
 | Day | Project | What it practices |
@@ -11,6 +11,7 @@ These are learning exercises; their program behavior is preserved.
 | 7 | [Hangman](hangman/main.py) | Loops, game state, and imported modules |
 | 8 | [Caesar Cipher](caesar-cipher/main.py) | Functions, text processing, and modular arithmetic |
 | 9 | [Secret Auction](secret-auction/main.py) | Dictionaries and finding the highest bid |
+| 10 | [Calculator](calculator/main.py) | Functions, return values, dictionaries of functions, and input validation |
 
 ## Run a project
 
@@ -24,6 +25,7 @@ python password-generator/main.py
 python hangman/main.py
 python caesar-cipher/main.py
 python secret-auction/main.py
+python calculator/main.py
 ```
 
 On Windows, use `py` if `python` is unavailable. On macOS/Linux, you may need `python3`.
